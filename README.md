@@ -1,11 +1,8 @@
-<h1 align="center">Hai <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"> I'm Zumaly </h1>
+## 📊 GitHub Stats 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RozhakXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
- # Github stats
-<p>
+## 🌐 Top Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RozhakXD&layout=compact&theme=vue-dark&hide_border=true&card_width=450)](https://github.com/RozhakXD)
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zumaly&theme=dracula)
-</p>
-<p>
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zumaly&theme=dracula)
-</p>
+## 🔥 Coding Streak 
+![Stargazers Streak](https://github-readme-streak-stats.herokuapp.com/?user=RozhakXD&theme=holi-theme&background=0D1117&hide_border=true&stroke=FF79C6)
