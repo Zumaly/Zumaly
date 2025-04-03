@@ -1,5 +1,7 @@
 # Hey There! I'm [Zuma](https://github.com/Zumaly) 👋
 
+Welcome to my GitHub profile!
+
 ## 📊 GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RozhakXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
